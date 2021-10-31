@@ -51,4 +51,5 @@ while (ch=='y') or (ch=='Y'):
     #elif b==3:
     ch=input("Do you want to see more patterns:")
 print("Goodbye")
+print("hope u had fun")
     
